@@ -74,7 +74,7 @@ public class WebScraper {
                                 + matcher.start() + " - " + matcher.end());
                 }
 
-               
+
         }
 
         public static void main(String[] args) {
